@@ -1,0 +1,47 @@
+
+#titulo {
+   text-align: center; 
+}
+
+.caixas {
+    text-align: center;
+}
+
+#resultados {
+    text-align: center;
+}
+
+.corretas {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.respostasCorretas {
+    color: green;
+}
+
+.respostasErradas {
+    color: red;
+}
+
+.erradas {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+#finalizacao{
+    text-align: center;
+}
+
