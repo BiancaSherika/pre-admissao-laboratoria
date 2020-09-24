@@ -1,5 +1,5 @@
 # pre-admissao-laboratoria
 
-Projeto HTMAL, CCS e JAVASCRIPT.
+Projeto HTML, CCS e JAVASCRIPT.
 
 Simulação de provas online.
